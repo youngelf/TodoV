@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TodoV/static/css/main.c0a75122.css",
+    "main.js": "/TodoV/static/js/main.eb767eb9.js",
+    "static/media/img.png": "/TodoV/static/media/img.fff601840c19bc077846.png",
+    "index.html": "/TodoV/index.html",
+    "main.c0a75122.css.map": "/TodoV/static/css/main.c0a75122.css.map",
+    "main.eb767eb9.js.map": "/TodoV/static/js/main.eb767eb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0a75122.css",
+    "static/js/main.eb767eb9.js"
+  ]
+}

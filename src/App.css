@@ -1,0 +1,175 @@
+/*FCFFA6
+C1FFD7
+B5DEFF
+CAB8FF*/
+
+.navbar-brand{
+    font-family:'Quicksand', sans-serif;
+    font-size: 30px;
+    padding-left: 100px;
+}
+.navbar{
+    padding: 0 0 4.5rem;
+    padding-right: 100px;
+}
+h1{
+    font-family: 'Quicksand', sans-serif;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+h2{
+    padding-bottom: 40px;
+}
+#testimonials{
+    padding-top: 40px;
+    padding-right: 20%;
+    padding-left: 20.0%;
+    font-size: smaller;
+    text-align: center;
+    background-color: #C1FFD7;
+    height: 300px;
+    color: rgb(12, 2, 2);
+    font-family: 'Quicksand', sans-serif;
+    font-size: 80%;
+}
+body {
+    background-image: url('img.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+#TUDUtoday{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: bolder;
+    background-color: #efd0f1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding:7% 15%;
+    text-align: left;
+}
+#footer{
+    text-align: center;
+    background-color: #CAB8FF;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#features{
+    padding: 7% 15%;
+    font-family:'Montserrat Alternates', sans-serif;
+}
+#abilities{
+    background-color: #B5DEFF;
+    font-size: 20px;
+    font-family: 'Satisfy', cursive;;
+    font-weight: lighter;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding: 7% 15%;
+    }
+
+.btmicon{
+    padding-bottom: 20px;
+    padding-right: 10px;
+}
+
+.carousel-control-prev{
+    filter: invert(100%);
+}
+.carousel-control-next{
+    filter: invert(100%);
+}
+.logo{
+    width: 10%;
+    margin: 20px 100px 20px;
+}
+.ftbx{
+    text-align: center;
+    padding: 5%;
+}
+.icon2{
+    color: #CAB8FF;
+    padding-bottom: 10px;
+}
+.icon2:hover{
+    color: #7f60dc;
+}
+.icon3{
+    color: #C1FFD7;
+    padding-bottom: 10px;
+}
+.icon3:hover{
+    color: #36e975;
+}
+.icon4{
+    color: #FCFFA6;
+    padding-bottom: 10px;
+}
+.icon4:hover{
+    color: #e1e741;
+}
+.icon1{
+    color: #B5DEFF;
+    padding-bottom: 10px;
+}
+.icon1:hover{
+    color: #5faae8;
+}
+.star-icon{
+    padding-right: 5px;
+    
+}
+.lists{
+    float:right;
+    width:35%;
+}
+.ss{
+    float: right;
+}
+hr {
+    height: 0px;
+    padding: 7% 15%;
+    width: 5%;
+    border-style: none;
+    border-bottom: dotted;
+    border-color:#CAB8FF;
+    border-width: 5px;
+  }
+.heading{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height:500px;
+}
+h2{
+    text-align: center;
+}
+#header{
+    text-align: center;
+}
+.btn{
+    background-color: #CAB8FF;
+    
+}
+.Todo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #c33bf9;
+    color: #fff;
+    padding: 0.75rem 1rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    cursor: pointer;
+  }
+  
+  .fa-trash {
+    margin-left: 0.75rem;
+  }
+#root{
+    height: 500px;
+    
+}
+.completed {
+    color: #c5aeff;
+    text-decoration: line-through;
+  }
